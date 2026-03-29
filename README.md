@@ -34,6 +34,7 @@ Platforms Created:
 2)Stack Overflow- ask coding questions.
 
 3)Kaggle-Beginner profile for Data science.
+
 ---------------------------------------------------------------------------
 
 Screenshot:
@@ -41,4 +42,9 @@ Screenshot:
 <img width="1366" height="768" alt="github-2" src="https://github.com/user-attachments/assets/21549736-e728-49df-9ed1-f15eeaff888a" />
 ![kaggle](https://github.com/user-attachments/assets/a7e60a91-31f2-46e0-b2f3-27d2d7479ae8)
 <img width="1366" height="768" alt="stack overflow" src="https://github.com/user-attachments/assets/6f3fb163-dcbe-4035-98b6-1bd398e6a6d0" />
-
+-------------------------------------------------------------------------------
+Task-3: Coding and Collaboration Platforms
+-----------------------------------------------------------------------------
+coding practice: chefcode "python" problem solved.
+ google form: Digital Literacy Awarness Quiz
+ google form link:
