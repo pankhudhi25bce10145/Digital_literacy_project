@@ -65,10 +65,10 @@ Folder:task-4-Professional E-mail and Etiquette Guide/
 📍Task 5: Cybercrime Awareness
 Case Study:UPI Fraud
 
-Folder:task-5-cybercrime/casestudy.md
+Folder:task-5-casestudy.pdf
 
 Prevention Checklist:8 actionable tips for college students
 
-Folder:task-5-cybercrime/prevention-checklist.md
+Folder:task-5-prevention-checklist.txt
 
 
