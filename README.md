@@ -48,8 +48,10 @@ Task-3: Coding and Collaboration Platforms
 coding practice: chefcode "python" problem solved.
  google form: Digital Literacy Awarness Quiz
  google form link:
-
-
+ https://docs.google.com/forms/d/e/1FAIpQLSfRucKbP2JXdF1DggOWGEabW_c2QqfLyOvLdBuNGONHlmNvtw/viewform?usp=publish-editor
+ Screenshot:
+ <img width="1366" height="768" alt="response form" src="https://github.com/user-attachments/assets/63c9da03-d2a1-4f64-abe3-08dff8d2c686" />
+-------------------------------------------------------------------------------
 
  Task 4: Professional Email & Social Media Etiqutte
 Emails Drafted: 1)Request for assignment extension 2)Internship application email
@@ -57,6 +59,8 @@ Emails Drafted: 1)Request for assignment extension 2)Internship application emai
 Social Media Checklist:5 Do's and Don'ts
 
 Folder:task-4-email-etiquette/
+
+--------------------------------------------------
 
 📍Task 5: Cybercrime Awareness
 Case Study:UPI Fraud
