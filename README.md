@@ -58,7 +58,7 @@ Emails Drafted: 1)Request for assignment extension 2)Internship application emai
 
 Social Media Checklist:5 Do's and Don'ts
 
-Folder:task-4-email-etiquette/
+Folder:task-4-Professional E-mail and Etiquette Guide/
 
 --------------------------------------------------
 
