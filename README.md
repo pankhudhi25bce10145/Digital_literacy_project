@@ -71,4 +71,8 @@ Prevention Checklist:8 actionable tips for college students
 
 Folder:task-5-prevention-checklist.txt
 
+------------------------------------------------------------------
+Project Report
+Full project report (write-ups for all tasks ,reflections,and conclusion) available at:report/Project_Report.docx
+
 
